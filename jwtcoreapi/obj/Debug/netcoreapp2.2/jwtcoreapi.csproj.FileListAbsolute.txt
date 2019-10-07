@@ -1,0 +1,14 @@
+D:\workarea\dotnetcore-jwt-play\jwtcoreapi\bin\Debug\netcoreapp2.2\jwtcoreapi.deps.json
+D:\workarea\dotnetcore-jwt-play\jwtcoreapi\bin\Debug\netcoreapp2.2\jwtcoreapi.runtimeconfig.json
+D:\workarea\dotnetcore-jwt-play\jwtcoreapi\bin\Debug\netcoreapp2.2\jwtcoreapi.runtimeconfig.dev.json
+D:\workarea\dotnetcore-jwt-play\jwtcoreapi\bin\Debug\netcoreapp2.2\jwtcoreapi.dll
+D:\workarea\dotnetcore-jwt-play\jwtcoreapi\bin\Debug\netcoreapp2.2\jwtcoreapi.pdb
+D:\workarea\dotnetcore-jwt-play\jwtcoreapi\obj\Debug\netcoreapp2.2\jwtcoreapi.csprojAssemblyReference.cache
+D:\workarea\dotnetcore-jwt-play\jwtcoreapi\obj\Debug\netcoreapp2.2\jwtcoreapi.csproj.CoreCompileInputs.cache
+D:\workarea\dotnetcore-jwt-play\jwtcoreapi\obj\Debug\netcoreapp2.2\jwtcoreapi.RazorAssemblyInfo.cache
+D:\workarea\dotnetcore-jwt-play\jwtcoreapi\obj\Debug\netcoreapp2.2\jwtcoreapi.RazorAssemblyInfo.cs
+D:\workarea\dotnetcore-jwt-play\jwtcoreapi\obj\Debug\netcoreapp2.2\jwtcoreapi.AssemblyInfoInputs.cache
+D:\workarea\dotnetcore-jwt-play\jwtcoreapi\obj\Debug\netcoreapp2.2\jwtcoreapi.AssemblyInfo.cs
+D:\workarea\dotnetcore-jwt-play\jwtcoreapi\obj\Debug\netcoreapp2.2\jwtcoreapi.RazorTargetAssemblyInfo.cache
+D:\workarea\dotnetcore-jwt-play\jwtcoreapi\obj\Debug\netcoreapp2.2\jwtcoreapi.dll
+D:\workarea\dotnetcore-jwt-play\jwtcoreapi\obj\Debug\netcoreapp2.2\jwtcoreapi.pdb
